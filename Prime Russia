@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "online": "20",
+    "maxonline": "650",
+    "color": "9B2D30",
+    "x2": "false",
+    "key": "1424",
+    "name": "Red",
+    "firstname": "Red",
+    "secondname": "",
+    "url": "red.blackrussia.online",
+    "ip": "188.127.241.74",
+    "port": "3144"
+  },
+  {
+    "id": "2",
+    "online": "20",
+    "maxonline": "650",
+    "color": "0ABAB5",
+    "x2": "false",
+    "key": "1424",
+    "name": "ТЕСТ ",
+    "firstname": "ТЕСТ ",
+    "secondname": "",
+    "url": "red.blackrussia.online",
+    "ip": "127.0.0.1",
+    "port": "1429"
+  },
+  {
+    "id": "3",
+    "online": "20",
+    "maxonline": "650",
+    "color": "93F0A4",
+    "x2": "false",
+    "key": "1424",
+    "name": "ТЕСТ ",
+    "firstname": "ТЕСТ ",
+    "secondname": "",
+    "url": "red.blackrussia.online",
+    "ip": "80.242.59.112",
+    "port": "7779"
+  }
+]
+
+
